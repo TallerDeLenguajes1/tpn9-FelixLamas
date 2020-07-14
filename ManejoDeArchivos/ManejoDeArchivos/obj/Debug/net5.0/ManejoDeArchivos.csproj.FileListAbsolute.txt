@@ -1,0 +1,13 @@
+C:\Users\elf_m\Desktop\PU-2\TALLER1\Practica\C#\tp9\ManejoDeArchivos\ManejoDeArchivos\bin\Debug\net5.0\ManejoDeArchivos.exe
+C:\Users\elf_m\Desktop\PU-2\TALLER1\Practica\C#\tp9\ManejoDeArchivos\ManejoDeArchivos\bin\Debug\net5.0\ManejoDeArchivos.deps.json
+C:\Users\elf_m\Desktop\PU-2\TALLER1\Practica\C#\tp9\ManejoDeArchivos\ManejoDeArchivos\bin\Debug\net5.0\ManejoDeArchivos.runtimeconfig.json
+C:\Users\elf_m\Desktop\PU-2\TALLER1\Practica\C#\tp9\ManejoDeArchivos\ManejoDeArchivos\bin\Debug\net5.0\ManejoDeArchivos.runtimeconfig.dev.json
+C:\Users\elf_m\Desktop\PU-2\TALLER1\Practica\C#\tp9\ManejoDeArchivos\ManejoDeArchivos\bin\Debug\net5.0\ManejoDeArchivos.dll
+C:\Users\elf_m\Desktop\PU-2\TALLER1\Practica\C#\tp9\ManejoDeArchivos\ManejoDeArchivos\bin\Debug\net5.0\ManejoDeArchivos.pdb
+C:\Users\elf_m\Desktop\PU-2\TALLER1\Practica\C#\tp9\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\net5.0\ManejoDeArchivos.csprojAssemblyReference.cache
+C:\Users\elf_m\Desktop\PU-2\TALLER1\Practica\C#\tp9\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\net5.0\ManejoDeArchivos.AssemblyInfoInputs.cache
+C:\Users\elf_m\Desktop\PU-2\TALLER1\Practica\C#\tp9\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\net5.0\ManejoDeArchivos.AssemblyInfo.cs
+C:\Users\elf_m\Desktop\PU-2\TALLER1\Practica\C#\tp9\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\net5.0\ManejoDeArchivos.csproj.CoreCompileInputs.cache
+C:\Users\elf_m\Desktop\PU-2\TALLER1\Practica\C#\tp9\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\net5.0\ManejoDeArchivos.dll
+C:\Users\elf_m\Desktop\PU-2\TALLER1\Practica\C#\tp9\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\net5.0\ManejoDeArchivos.pdb
+C:\Users\elf_m\Desktop\PU-2\TALLER1\Practica\C#\tp9\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\net5.0\ManejoDeArchivos.genruntimeconfig.cache
